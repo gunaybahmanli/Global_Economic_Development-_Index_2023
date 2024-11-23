@@ -1,6 +1,6 @@
-# Global Economic Development Index 2023
-Project Overview
 This project analyzes global performance indicators, providing insights into various factors such as governance, human development, economic performance, and environmental sustainability across countries and regions. By using SQL for data preparation and Power BI for interactive visualizations, the project answers crucial questions on country rankings, regional trends, and the interrelationships between different performance indicators.
+# Global Economic Development Index 2023
+
 # Key Questions:
 Global Overview:
 1. Which countries rank highest and lowest in AverageScore?
